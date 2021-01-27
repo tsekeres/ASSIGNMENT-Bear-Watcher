@@ -11,7 +11,7 @@ You have been tasked with creating a site scientists and park ranger can use to 
 * Create wireframes for this project and attach them to the appropriate project.
 
 ## Technical Requirements
-* You must use [Boostrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) to style your page components.
+* You must use [Boostrap](https://getbootstrap.com/) to style your page components.
 * Your JS file should be comprised of functions, no actions should happen in your code outside of a function
 * Your HTML and JS should all have proper indentations
 * You should be using ES6 modules
