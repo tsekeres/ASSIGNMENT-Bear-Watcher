@@ -14,7 +14,7 @@ You have been tasked with creating a site scientists and park ranger can use to 
 * You must use [Boostrap](https://getbootstrap.com/) to style your page components.
 * Your JS file should be comprised of functions, no actions should happen in your code outside of a function
 * Your HTML and JS should all have proper indentations
-* You should be using ES6 modules
+* You should be using WebPack and Modular Code
 * Your JS code should be eslint error and warning free
 
 ## User stories
