@@ -4,8 +4,17 @@ Each year between July and September brown bears in the Katmai National Park con
 
 You have been tasked with creating a site scientists and park ranger can use to track these bears.
 
+## Get Started
+Clone this repo
+
+```
+$ sudo npm install
+$ npm start
+```
+
+Follow the instructions from the [Webpack template](https://github.com/nss-nightclass-projects/webpack-template/blob/master/README.md) to ensure you make all the updates to get the project started.
+
 ## Planning Requirements
-* Create a new github repo called `bear-watcher`
 * Create a github project on this repo
 * Create feature tickets for this assignment
 * Create wireframes for this project and attach them to the appropriate project.
