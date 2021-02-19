@@ -1,7 +1,11 @@
+import handleButtonEvents from './helpers/buttonEvents';
+import bearBuilder from './components/bearBuilder';
+import { bearGroup } from './helpers/data/bearData';
 import '../styles/main.scss';
 
 const init = () => {
-  $('#app').html('<h1>HI! You are up and running!</h1>');
+  handleButtonEvents();
+  bearBuilder(bearGroup);
 };
 
 init();
