@@ -2,8 +2,36 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  background-color: steelblue;
+  color: rgb(53, 41, 41);
   text-align: center;
   margin-top: 100px;
+}
+
+.main-container {
+  width: 100%;
+  height: 100%;
+}
+
+.left-container {
+  margin-left: 10px;
+  width: 25%;
+  height: auto;
+}
+
+.bear-logo {
+  background-color: cornsilk;
+  border: 3px solid black;
+  height: 220px;
+  width: 100%;
+  border-radius: 50%;
+  margin: 30px auto;
+}
+
+.right-container {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100%;
+  height: 100%;
+  justify-content: end;
 }

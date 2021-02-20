@@ -1,8 +1,13 @@
+import handleButtonEvents from './helpers/buttonEvents';
+import bearBuilder from './components/bearBuilder';
+import { bearGroup } from './helpers/data/bearData';
 import '../styles/main.scss';
+import runScreen from './components/initialScreen';
 
 const init = () => {
-  $('#app').html('<h1>HELLO! You are up and running!</h1>');
-  console.log('YOU ARE UP AND RUNNING!');
+  runScreen();
+  handleButtonEvents();
+  bearBuilder(bearGroup);
 };
 
 init();
