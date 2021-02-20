@@ -28,4 +28,4 @@ const formInput = (e) => {
   document.querySelector('#bear-form').reset();
 };
 
-export { bearGroup, formInput };
+export { formInput, bearGroup };

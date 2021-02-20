@@ -1,8 +1,7 @@
-import renderToDom from './helpers/renderToDom';
-import { bearGroup } from '../helpers/data/bearData';
+import renderToDom from '../helpers/renderToDom';
 
 const bearBuilder = (array) => {
-  let bearString = "";
+  let bearString = '';
 
   array.forEach((element) => {
     bearString += `<div id="pet-cards" class="card" style="width: 12rem;">
@@ -14,7 +13,7 @@ const bearBuilder = (array) => {
                     </div>
                   </div>`;
   });
-  renderToDom("#bear-card-container", bearString);
+  renderToDom('#bear-card-container', bearString);
 };
 
 export default bearBuilder;
