@@ -1,4 +1,17 @@
-# Bear Watcher
+Name of the Project:
+Bear Watcher 3000
+Overview of the project:
+This is an application that can intake new bears for watching and be a central location for fish catching data. Bear data can be tracked and tabulated.
+Link to your wireframes/prototype:
+https://www.figma.com/file/NukvBTOyXwKiooVgAijELl/Bear-Watcher?node-id=0%3A1
+Link to the deployed project:
+
+Link to your project board (yes...even though it is a part of the repo)
+Description of the user
+List of features
+Screenshots of your project
+List of contributors and links to their GH profiles
+Link to Loom video walkthrough of your app (no more than 1 minute long! Make it great)# Bear Watcher
 ## Introduction
 Each year between July and September brown bears in the Katmai National Park congregate along the Brooks River.  This river is one of the main rivers that Sockeye Salmon swim up to spawn.  The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks.  Want to see it in [ACTION](https://explore.org/livecams/brown-bears/brown-bear-salmon-cam-brooks-falls)?
 
